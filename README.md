@@ -1,1 +1,22 @@
-# AI-Voice-Assistant---TARA
+## Key Features & Technologies Used in TARA AI
+
+- Developed an AI-powered desktop voice assistant using Python.
+- Implemented real-time Speech Recognition for converting human voice into text commands.
+- Built a Wake Word Detection system using the custom AI activation word “TARA”.
+- Integrated Text-to-Speech (TTS) technology using pyttsx3 for human-like AI voice responses.
+- Used PyWhatKit for YouTube automation and WhatsApp message automation.
+- Implemented browser automation using the Webbrowser module to open websites and perform searches.
+- Created desktop automation functionalities using Python OS modules.
+- Designed a futuristic animated GUI using Tkinter and CustomTkinter.
+- Developed continuous background listening functionality for hands-free interaction.
+- Implemented intelligent command processing and task execution architecture.
+- Built modular project architecture with separate Listener, Brain, Voice, and GUI modules.
+- Integrated microphone-based real-time audio input processing.
+- Enabled automated YouTube song search and playback through voice commands.
+- Implemented WhatsApp instant messaging automation using contact mapping.
+- Added real-time command interpretation and response generation system.
+- Used Python libraries such as SpeechRecognition, PyAudio, pyttsx3, PyWhatKit, Tkinter, and Webbrowser.
+- Applied concepts of Artificial Intelligence, Human-Computer Interaction, and Desktop Automation.
+- Designed scalable and maintainable system architecture for future AI enhancements.
+- Planned future integrations including ChatGPT, Face Recognition, Smart Home Control, and Emotion Detection.
+- Demonstrated practical implementation of automation engineering and intelligent system design.
